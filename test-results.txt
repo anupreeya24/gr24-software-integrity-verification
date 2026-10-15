@@ -1,0 +1,13 @@
+Python | unchanged | expected 0 | observed 0 | PASS
+Python | modified | expected 1 | observed 1 | PASS
+Python | invalid digest | expected 2 | observed 2 | PASS
+Python | missing file | expected 2 | observed 2 | PASS
+Python | uppercase digest | expected 0 | observed 0 | PASS
+Python | large artifact | expected 0 | observed 0 | PASS
+Windows executable | unchanged | expected 0 | observed 0 | PASS
+Windows executable | modified | expected 1 | observed 1 | PASS
+Windows executable | invalid digest | expected 2 | observed 2 | PASS
+Windows executable | missing file | expected 2 | observed 2 | PASS
+Windows executable | uppercase digest | expected 0 | observed 0 | PASS
+Windows executable | large artifact | expected 0 | observed 0 | PASS
+Total failures: 0
